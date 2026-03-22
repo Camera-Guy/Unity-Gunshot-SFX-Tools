@@ -7,6 +7,6 @@ Update your gun SFX without thinking Fuuuuuck that would mean i would have to re
 
 <img width="941" height="900" alt="Image" src="https://github.com/user-attachments/assets/ab56690d-b92c-4eb8-8ec2-9b19fe821ca4" />
 
-It sometimes breaks so hit the button again
+It sometimes breaks so hit the generate button again
 
 fixeing that and adding Burst function is planned
