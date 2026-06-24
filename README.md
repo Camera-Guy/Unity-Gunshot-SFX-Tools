@@ -9,4 +9,4 @@ Update your gun SFX without thinking Fuuuuuck that would mean i would have to re
 
 It sometimes breaks so hit the generate button again
 
-fixeing that and adding Burst function is planned
+fixing that and adding Burst function is planned
